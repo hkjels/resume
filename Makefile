@@ -2,14 +2,11 @@
 cv: index.html
 
 
-index.html: Readme.html
-	cat layout/head.html $^ layout/tail.html > $@
+index.html: Readme.md
+	markdown $< | cat layout/head.html - layout/tail.html > $@
 
-Readme.html: Readme.md
-	markdown $^ > $@
-
-clean: Readme.html index.html
-	rm -f $^
+clean:
+	rm -f *.html
 
 
 .PHONY: cv clean
