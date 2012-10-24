@@ -1,4 +1,6 @@
 
+<header class="acenter">
+
 Henrik Kjelsberg
 ================
 
@@ -6,7 +8,9 @@ Henrik Kjelsberg
   Blusuvollsbakken 4, 7052 TRONDHEIM<br />
   <a href="mailto:hkjels@me.com">hkjels@me.com</a>
 </address>
+Born <time datetime="1984-20-12">20.12.1984</time>
 
+</header>
 
 * * *
 
@@ -88,9 +92,6 @@ __Freelance as Tåke, Henrik Kjelsberg, 2004 - 2006__
 
 
 ### Software
-
-These are all software that I feel competent at using and are relevant to
-my line of work.
 
 * Photoshop
 
