@@ -93,9 +93,6 @@ __Freelance as Tåke, Henrik Kjelsberg, 2004 - 2006__
 
 ### Software
 
-These are all software that I feel competent at using and are relevant to
-my line of work.
-
 * Photoshop
 
 * Illustrator
