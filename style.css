@@ -18,3 +18,27 @@ ul {
   list-style: square inside;
 }
 
+#ribbon {
+  display: block;
+  height: 149px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 149px;
+}
+  #ribbon img {
+    width: 100%;
+  }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #ribbon {
+    width: 75px;
+  }
+}
+
+@media print {
+  #ribbon {
+    display: none;
+  }
+}
+
