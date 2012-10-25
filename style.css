@@ -3,6 +3,13 @@ body {
   padding: 50px 0;
 }
 
+a {
+  color: #888;
+  transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -webkit-transition: all .2s ease-in-out;
+}
+
 .acenter {
   text-align: center;
 }
