@@ -20,8 +20,7 @@ Born <time datetime="1984-20-12">20.12.1984</time>
 
 __Idéfag, 2003 - 2004__
 
-The year involved 3d-design/animation, post production and scripting.
-
+The year involved 3d-design/animation, post-production and scripting.
 
 * * *
 
@@ -29,7 +28,7 @@ The year involved 3d-design/animation, post production and scripting.
 ### Work experience
 
 
-__[Zedge](http://zedge.net/), 2006 -__
+__[Zedge](http://zedge.net/), 2007 -__
 
 Zedge is a distributor of mobile content; Ringtones, wallpapers, apps and
 games. Zedge has over 70 million users across iOS and Android.
@@ -39,19 +38,25 @@ technologies such as javascript, sass, php and occasionally some design-work
 in Illustrator and Photshop.
 
 
-__Cargosafe (consultant), 2011 -__
+__Cargosafe, 2011 -__
 
-I am hired as a consultant to create Cargosafe's Restfull API and online
+I am hired as system-developer to create Cargosafe's Restfull API and online
 solutions. Cargosafe does realtime-tracking of vehicles and their cargo to
 ensure safe delivery. The system relies heavily on web-sockets, MongoDb and
 node-js.
 
 
-__Tåke (freelance), 2004 - 2006__
+__Tåke (freelance), 2005 - 2006__
 
 I did a lot of work for Cravemedia and Web-dynamic. I also engaged clients
 on my own. All of which was mostly web development related. I designed using
 the Adobe suite and programmed in php and actionscript.
+
+
+__His Majesty The King´s Guard, 2004 - 2005__
+
+I was in the SIBO-unit, dealing with explosives. During my service I
+created the layout and design of the internal magazine from cover to cover.
 
 
 * * *

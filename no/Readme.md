@@ -19,15 +19,14 @@ Født <time datetime="1984-20-12">20.12.1984</time>
 
 __Idéfag, 2003 - 2004__
 
-Studiet involverte 3d-design/animasjon, post produksjon og programmering.
-
+Studiet involverte 3d-design/animasjon, postproduksjon og programmering.
 
 * * *
 
 
 ### Arbeidserfaring
 
-__[Zedge](http://zedge.net/), 2006 -__
+__[Zedge](http://zedge.net/), 2007 -__
 
 Zedge er distributør av mobilt innhold, herunder ringetoner, bakgrunner,
 apper og spill. Zedge har per i dag over 70 millioner brukere fordelt på
@@ -37,23 +36,29 @@ teamet. Hos Zedge jobber jeg i hovedsak med teknologier som javascript, sass
 og php.
 
 
-__Cargosafe (konsulent), 2011 -__
+__Cargosafe, 2011 -__
 
 Cargosafe driver med sanntidssporing av lastebiler og dens last. Jeg er
-engasjert for å lage en robust nettbasert løsning. Systemet benytter
-web-sockets, MongoDB og node-js.
+engasjert som systemutvikler for å lage en robust nettbasert løsning.
+Systemet benytter web-sockets, MongoDB og node-js.
 
 
-__Tåke (frilans),  2004 - 2006__
+__Tåke (frilans),  2005 - 2006__
 
-Programmerer og designer for bl.a. Cravemedia og Web dynamic. Oppdragene
-innebar blant annet bruk av php, javascript, og css.
+Programmerer og designer for bl.a. Cravemedia og Web-dynamic. Oppdragene
+innebar blant annet bruk av php, javascript, css og actionscript.
 
+
+__Hans Majestet Kongens Garde, 2004 - 2005__
+
+Jeg var i SIBO-enheten, hvor vi lærte om og øvde med eksplosiver. I løpet
+av tjenesten gjorde jeg layout og design av hele Gardisten, Gardens
+nyhetsmagasin.
 
 * * *
 
 
 ### Språkkunskaper
 
-Jeg leser og skriver norsk og engelsk flytende.
+Jeg behersker både skriftlig og muntlig engelsk.
 
