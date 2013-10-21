@@ -46,19 +46,19 @@ Systemet benytter web-sockets, MongoDB og node-js.
 __Tåke (frilans),  2005 - 2006__
 
 Programmerer og designer for bl.a. Cravemedia og Web-dynamic. Oppdragene
-innebar blant annet bruk av php, javascript, css og actionscript.
+innebar bruk av php, javascript, css og actionscript.
 
 
 __Hans Majestet Kongens Garde, 2004 - 2005__
 
 Jeg var i SIBO-enheten, hvor vi lærte om og øvde med eksplosiver. I løpet
-av tjenesten gjorde jeg layout og design av hele Gardisten, Gardens
+av tjenesten laget jeg layout og design av hele Gardisten, Gardens
 nyhetsmagasin.
 
 * * *
 
 
-### Språkkunskaper
+### Språkkunnskaper
 
 Jeg behersker både skriftlig og muntlig engelsk.
 
